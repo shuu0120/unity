@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UI
+using UnityEngine.UI;
 
 public class forcampanella : MonoBehaviour
 {
