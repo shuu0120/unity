@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UI
+using UnityEngine.UI;
 
 public class forcampanella : MonoBehaviour
 {
@@ -11,9 +11,8 @@ public class forcampanella : MonoBehaviour
        if() 
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+  //update関数を追加
+  {
+    update()
+  }
 }
