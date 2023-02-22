@@ -11,5 +11,8 @@ public class forcampanella : MonoBehaviour
         
     }
 
- 
+  //update関数を追加
+  {
+    update()
+  }
 }
