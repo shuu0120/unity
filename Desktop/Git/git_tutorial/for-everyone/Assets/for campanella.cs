@@ -8,7 +8,11 @@ public class forcampanella : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-       if() 
+        if
+             (
+             1+1=2
+
+            ) 
     }
 
   //update関数を追加
