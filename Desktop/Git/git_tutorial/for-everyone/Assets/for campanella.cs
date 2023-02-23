@@ -11,6 +11,7 @@ public class forcampanella : MonoBehaviour
         if
              (
              1+1=2
+            Debug Log()
 
             ) 
     }
